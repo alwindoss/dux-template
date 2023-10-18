@@ -1,4 +1,4 @@
-module github.com/alwindoss/dux
+module github.com/alwindoss/dux-template
 
 go 1.21.3
 
